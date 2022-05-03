@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @sudarshan-sarathy
-- 👀 
 
-Hello world! 
+👋 Hello world! 
 
 Sudarshan (Sudy) here - used to work with banks at BCG, then invested in fintech (and SaaS) at Picus Capital, was wowed by DeFi's 24x7 nature, global uniformity and composability - and hopped in
 I write a substack on web3 topics: check it out -> https://tickingcompass.substack.com/publish
