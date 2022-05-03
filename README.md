@@ -7,3 +7,4 @@
 - Support on growth strategy and content writing at Forta and Starkware
 
 - Always excited to chat with and learn from the most hungry people in the world i.e. startup founders. DMs open - happy to be of any help.
+- My LinkedIn: https://www.linkedin.com/in/sudarshansarathy/
